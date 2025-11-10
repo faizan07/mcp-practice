@@ -5,7 +5,7 @@ MCP Chat is a command-line interface application that enables interactive chat c
 ## Prerequisites
 
 - Python 3.9+
-- Anthropic API Key
+- Anthropic API Key (Please be mindful that for obtaining the Anthroppic key one needs to have a minimum of $5 credit in Anthropic)
 
 ## Setup
 
